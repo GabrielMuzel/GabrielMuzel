@@ -1,4 +1,4 @@
-## Oi Sou o Gabriel Muzel, Criador e desenvolvedor de programação e tecnologias !
+## Oi Sou o Gabriel Muzel Criador e Desenvolvedor de Programação e Tecnologias !
 
 <div align="center">
   <a href="https://github.com/GabrielMuzel">
